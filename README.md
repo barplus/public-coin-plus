@@ -1,2 +1,0 @@
-# public-coin-plus
-plus
